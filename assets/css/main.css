@@ -4687,3 +4687,26 @@ input, select, textarea {
 		}
 
 	}
+			/* ==========================================
+			Custom Styles
+			========================================== */
+
+			/* Preserve capitalization for your name */
+			#intro h1 {
+				text-transform: none !important;
+				letter-spacing: 0.05em;
+			}
+
+			/* Preserve capitalization for the logo in the header */
+			#header .logo {
+				text-transform: none !important;
+			}
+
+			/* Preserve normal capitalization in footer */
+#copyright {
+    text-transform: none !important;
+}
+
+#copyright ul li {
+    text-transform: none !important;
+}
