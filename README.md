@@ -24,3 +24,18 @@ A static GitHub Pages portfolio presenting six case studies across CRM, sales, l
 | Healthcare analysis | [healthcare-access-analysis](https://github.com/Mikkymo/healthcare-access-analysis) |
 
 The project repositories are separate from this website repository. Update and publish them individually when their changes have been reviewed.
+
+## Dashboard images
+
+Open the [portfolio projects section](https://mikkymo.github.io/portfolio/#projects) and select an image or its **View full-size image** link. The site images are stored in [`images/`](images/).
+
+| Project | Full-size image |
+| --- | --- |
+| CRM pipeline | [Dashboard](images/crm-dashboard.png) |
+| Metro sales | [Verified comparison chart](images/metro-sales-dashboard.png) |
+| M-CASH loans | [Analysis chart](images/loan-recovery-dashboard.png) |
+| Supply chain | [Data quality chart](images/supply-chain-dashboard.png) |
+| MTN churn | [Dashboard](images/customer-churn-dashboard.png) |
+| Healthcare | [Overview](images/healthcare-dashboard.png) |
+
+The Metro, loan and supply chain charts summarize verified source findings. Earlier screenshots remain in their project repositories under `archive/` where applicable.
